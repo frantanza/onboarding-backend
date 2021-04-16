@@ -1,0 +1,52 @@
+cl/mobdev/dogceo/application/domain/usecase/BreedInfoUseCase.java
+ cl.mobdev.dogceo.application.domain.usecase.BreedInfoUseCase
+cl/mobdev/dogceo/application/presentation/BreedDetail.java
+ cl.mobdev.dogceo.application.presentation.BreedDetail
+cl/mobdev/dogceo/DogCeoApplication.java
+ cl.mobdev.dogceo.DogCeoApplication
+cl/mobdev/dogceo/application/data/info/mapper/BreedImagesToEntityMapper.java
+ cl.mobdev.dogceo.application.data.info.mapper.BreedImagesToEntityMapper
+cl/mobdev/dogceo/application/data/info/entity/BreedInfoEntity.java
+ cl.mobdev.dogceo.application.data.info.entity.BreedInfoEntity
+cl/mobdev/dogceo/application/data/info/repository/BreedInfoRepository.java
+ cl.mobdev.dogceo.application.data.info.repository.BreedInfoRepository
+cl/mobdev/dogceo/configuration/BreedImagesConfiguration.java
+ cl.mobdev.dogceo.configuration.BreedImagesConfiguration
+cl/mobdev/dogceo/configuration/BreedInfoProperties.java
+ cl.mobdev.dogceo.configuration.BreedInfoProperties
+cl/mobdev/dogceo/application/data/info/datasource/BreedImagesDataSource.java
+ cl.mobdev.dogceo.application.data.info.datasource.BreedImagesDataSource
+cl/mobdev/dogceo/application/domain/model/BreedInfo.java
+ cl.mobdev.dogceo.application.domain.model.BreedInfo
+cl/mobdev/dogceo/application/data/info/repository/BreedImagesRepositoryImpl.java
+ cl.mobdev.dogceo.application.data.info.repository.BreedImagesRepositoryImpl
+cl/mobdev/dogceo/application/presentation/BreedDetailController.java
+ cl.mobdev.dogceo.application.presentation.BreedDetailController
+cl/mobdev/dogceo/common/Mapper.java
+ cl.mobdev.dogceo.common.Mapper
+cl/mobdev/dogceo/application/domain/usecase/BreedImagesUseCase.java
+ cl.mobdev.dogceo.application.domain.usecase.BreedImagesUseCase
+cl/mobdev/dogceo/application/domain/model/BreedImagesModel.java
+ cl.mobdev.dogceo.application.domain.model.BreedImagesModel
+cl/mobdev/dogceo/application/data/info/repository/BreedImagesRepository.java
+ cl.mobdev.dogceo.application.data.info.repository.BreedImagesRepository
+cl/mobdev/dogceo/application/data/info/datasource/BreedInfoDataSource.java
+ cl.mobdev.dogceo.application.data.info.datasource.BreedInfoDataSource
+cl/mobdev/dogceo/application/presentation/body/InfoBody.java
+ cl.mobdev.dogceo.application.presentation.body.InfoBody
+cl/mobdev/dogceo/application/data/info/mapper/BreedInfoToBreedInfoEntityMapper.java
+ cl.mobdev.dogceo.application.data.info.mapper.BreedInfoToBreedInfoEntityMapper
+cl/mobdev/dogceo/application/data/info/datasource/BreedImagesApiDataSource.java
+ cl.mobdev.dogceo.application.data.info.datasource.BreedImagesApiDataSource
+cl/mobdev/dogceo/configuration/BreedInfoConfiguration.java
+ cl.mobdev.dogceo.configuration.BreedInfoConfiguration
+cl/mobdev/dogceo/application/data/info/repository/BreedInfoRepositoryImpl.java
+ cl.mobdev.dogceo.application.data.info.repository.BreedInfoRepositoryImpl
+cl/mobdev/dogceo/application/data/info/entity/BreedImagesEntity.java
+ cl.mobdev.dogceo.application.data.info.entity.BreedImagesEntity
+cl/mobdev/dogceo/application/presentation/BreedImages.java
+ cl.mobdev.dogceo.application.presentation.BreedImages
+cl/mobdev/dogceo/application/data/info/datasource/BreedInfoApiDataSource.java
+ cl.mobdev.dogceo.application.data.info.datasource.BreedInfoApiDataSource
+cl/mobdev/dogceo/application/presentation/BreedImagesController.java
+ cl.mobdev.dogceo.application.presentation.BreedImagesController

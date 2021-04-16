@@ -1,0 +1,5 @@
+dog-ceo_api:
+  base_url: "https://dog.ceo/api/"
+  endpoints:
+    breed_info: "breed/{breed_name}/list"
+    breed_images: "breed/{breed_images}/images"

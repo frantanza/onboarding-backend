@@ -1,0 +1,12 @@
+cl/mobdev/dogceo/DogCeoApplicationTests.java
+ cl.mobdev.dogceo.DogCeoApplicationTests
+cl/mobdev/dogceo/application/data/info/datasource/BreedInfoApiDataSourceTest.java
+ cl.mobdev.dogceo.application.data.info.datasource.BreedInfoApiDataSourceTest
+cl/mobdev/dogceo/application/data/info/mapper/BreedInfoToBreedInfoEntityMapperTest.java
+ cl.mobdev.dogceo.application.data.info.mapper.BreedInfoToBreedInfoEntityMapperTest
+cl/mobdev/dogceo/application/data/info/repository/BreedInfoRepositoryImplTest.java
+ cl.mobdev.dogceo.application.data.info.repository.BreedInfoRepositoryImplTest
+cl/mobdev/dogceo/application/domain/usecase/BreedInfoUseCaseTest.java
+ cl.mobdev.dogceo.application.domain.usecase.BreedInfoUseCaseTest
+cl/mobdev/dogceo/application/presentation/BreedDetailControllerTest.java
+ cl.mobdev.dogceo.application.presentation.BreedDetailControllerTest
